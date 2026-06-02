@@ -41,6 +41,7 @@ export default {
         sans: ['-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'sans-serif'],
         serif: ['Georgia', 'serif'],
         mono: ['Menlo', 'Monaco', 'Courier New', 'monospace'],
+        script: ['Caveat', 'cursive'],
       },
       borderRadius: {
         md: '8px',
