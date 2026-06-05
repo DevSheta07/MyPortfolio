@@ -8,7 +8,7 @@ const HeroSection = ({ sectionRef, onNavigate, onResumeDownload }) => {
         <div className="inline-block bg-lilac-ash/20 text-space-indigo px-4 py-2 rounded-full text-sm font-medium mb-8 border border-lilac-ash/30">
           Welcome to my portfolio
         </div>
-        <h1 className="text-5xl sm:text-6xl font-bold text-space-indigo mb-4">Dev Sheta</h1>
+        <h1 className="text-5xl sm:text-6xl font-bold text-space-indigo mb-4">Dev Manjibhai Sheta</h1>
         <p className="text-xl text-dusty-grape mb-4">Computer Engineering Student</p>
         <p className="text-lg text-lilac-ash mb-8">Building meaningful digital experiences through code.</p>
         <p className="max-w-2xl mx-auto text-dusty-grape mb-12">
